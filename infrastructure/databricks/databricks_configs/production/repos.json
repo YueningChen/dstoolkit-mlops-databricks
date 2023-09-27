@@ -1,16 +1,16 @@
 {
-    "Git_Configuration":  [
-                              {
-                                  "git_username":  "YueningChen",
-                                  "git_provider":  "gitHub"
-                              }
-                          ],
-    "Repo_Configuration":  [
-                               {
-                                   "url":  "https://github.com/YueningChen/dstoolkit-mlops-databricks",
-                                   "provider":  "gitHub",
-                                   "path":  "ProductionFolder",
-                                   "branch":  "main"
-                               }
-                           ]
+  "Git_Configuration": [
+    {
+      "git_username": "YueningChen",
+      "git_provider": "gitHub"
+    }
+  ],
+  "Repo_Configuration": [
+    {
+      "url": "https://github.com/YueningChen/dstoolkit-mlops-databricks.git",
+      "provider": "gitHub",
+      "path": "ProductionFolder",
+      "branch": "main"
+    }
+  ]
 }
